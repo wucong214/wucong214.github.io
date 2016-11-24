@@ -1,0 +1,12 @@
+*{
+  margin:0;
+  padding:0;
+}
+li{
+  listyle:none;
+}
+h1{
+  margin: 0 auto;
+  padding: 0;
+  color: #666;
+}
